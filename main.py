@@ -1,3 +1,4 @@
+'''
 # 1. Introduction to Coding and to Python
 # - Computational Thinking
 # - Information binary representation
@@ -198,3 +199,4 @@ if 'affitto' in {}:
 
 # 15. Problem Solving
 # - Binary search
+'''
